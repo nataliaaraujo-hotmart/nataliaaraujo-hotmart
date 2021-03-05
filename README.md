@@ -1,6 +1,7 @@
 <h1 align="center"> Hello World! 👋 I'm Natália Araújo 👩‍💻</h1>
 
-- 🔭 I’m currently working at [Robomind Pará](https://www.instagram.com/robomindpara/)
+- 🧙‍♀️ Instructor at [Robomind Pará](https://www.instagram.com/robomindpara/)
+- 👩‍💻 Developer Backend Junior at [DiretoTech](https://www.protestodireto.com.br/)
 - 🌱 I’m currently learning NodeJs, React and JavaScript.
 - 💬 Ask me about Python.
 
