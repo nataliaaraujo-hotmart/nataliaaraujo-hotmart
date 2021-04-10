@@ -82,12 +82,12 @@
 </p>
 
 <h3>📈 Statistics Cards</h3>
-<div align="center">
+<div align="left">
   <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs?username=taiaraujo&show_icons=true&locale=en&layout=compact&theme=react" alt="taiaraujo" />
   <img height=175 src="https://github-readme-stats.vercel.app/api?username=taiaraujo&show_icons=true&locale=en&theme=react&hide=issues" alt="taiaraujo" />
 </div>
 
 <h3 align="left">📊 Overview Heroku</h3>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taiaraujo&layout=compact&theme=react" alt="taiaraujo" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=taiaraujo&layout=compact&theme=react" alt="taiaraujo" />
 </p>
