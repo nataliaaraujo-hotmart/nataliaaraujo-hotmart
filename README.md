@@ -83,6 +83,9 @@
 </p>
 
 <p>
+</p>
+
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=taiaraujo&show_icons=true&locale=en&theme=react&hide=issues,contribs" alt="taiaraujo" />
 </p>
 
