@@ -81,10 +81,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiaraujo&theme=dracula&column=8&margin-w=15&margin-h=15&no-bg=true" alt="taiaraujo" /></a> 
 </p>
 
+<h3>📈 Statistics Cards</h3>
 <div align="center">
-  <h3>📈 Statistics Cards</h3>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiaraujo&show_icons=true&locale=en&layout=compact&theme=react" alt="taiaraujo" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taiaraujo&show_icons=true&locale=en&theme=react&hide=issues" alt="taiaraujo" />
+  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs?username=taiaraujo&show_icons=true&locale=en&layout=compact&theme=react" alt="taiaraujo" />
+  <img height=175 src="https://github-readme-stats.vercel.app/api?username=taiaraujo&show_icons=true&locale=en&theme=react&hide=issues" alt="taiaraujo" />
 </div>
 
 <h3 align="left">📊 Overview Heroku</h3>
