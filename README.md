@@ -41,13 +41,6 @@
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clubhouse-6515DD?style=for-the-badge&logo=clubhouse&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
-</p>
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -55,6 +48,13 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clubhouse-6515DD?style=for-the-badge&logo=clubhouse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -72,10 +72,20 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiaraujo&theme=dracula&column=8&margin-w=15&margin-h=15&no-bg=true" alt="taiaraujo" /></a> </p>
+<h3 align="left">🏆 Github Profile Trophy</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiaraujo&show_icons=true&locale=en&layout=compact&theme=react" alt="taiaraujo" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiaraujo&theme=dracula&column=8&margin-w=15&margin-h=15&no-bg=true" alt="taiaraujo" /></a> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taiaraujo&show_icons=true&locale=en&theme=react&hide=issues,contribs" alt="taiaraujo" /></p>
+<h3 align="left">📈 Statistics Cards</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiaraujo&show_icons=true&locale=en&layout=compact&theme=react" alt="taiaraujo" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taiaraujo&layout=compact&theme=react" alt="taiaraujo" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taiaraujo&show_icons=true&locale=en&theme=react&hide=issues,contribs" alt="taiaraujo" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taiaraujo&layout=compact&theme=react" alt="taiaraujo" />
+</p>
