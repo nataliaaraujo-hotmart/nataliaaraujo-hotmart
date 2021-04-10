@@ -81,14 +81,11 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiaraujo&show_icons=true&locale=en&layout=compact&theme=react" alt="taiaraujo" />
 </p>
-
-<p>
-</p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=taiaraujo&show_icons=true&locale=en&theme=react&hide=issues,contribs" alt="taiaraujo" />
 </p>
 
+<h3 align="left">📊 Overview Heroku</h3>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taiaraujo&layout=compact&theme=react" alt="taiaraujo" />
 </p>
