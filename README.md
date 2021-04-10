@@ -1,21 +1,25 @@
+<p align="center"> <img src="https://github.com/taiaraujo/taiaraujo/blob/main/img/avatarTaia.png" height="150" width="150" alt="taiaraujo" /> </p>
+
 <h1 align="center">Hello World!👋, I'm Natalia Araujo</h1>
-<h3 align="center">Junior Backend Developer | Direto Tech</h3>
+<h3 align="center">Junior Backend Developer | Computer Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="taiaraujo" /> </p>
 
 
-- 🔭 I’m currently working on [Plataforma Notifica Direto](https://cartorio.notificadireto.com.br/signin)
+- 🔭 I’m currently working
+ 
+  > 👩‍💻 as a backend on the [Plataforma Notifica Direto](https://cartorio.notificadireto.com.br/signin) | [Direto Tech](https://direto.tech/). 
 
-- 🧙‍♀️ Instructor at [Robomind Pará](https://www.instagram.com/robomindpara/)
+  > 🧙‍♀️ as a Technology Education Instructor at [Robomind Pará](https://www.instagram.com/robomindpara/). 
 
-- 🌱 I’m currently learning **NodeJs, JavaScript, TypeScript, Laravel**
+  > 🧙‍♀️ as a Project Mentor [Coders4Future](http://coders4future.com/). 
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **taiaraujo20@gmail.com**
+- 🌱 I am currently a student of the [Graduate Program in Applied Computing at UFPA](http://ppca.propesp.ufpa.br/index.php/br)
 
 <h3 align="left">📱 Connect with me</h3>
+<a href="taiaraujo20@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
+<a href="https://discord.gg/taia#5998" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>
 <a href="https://twitter.com/nfarauj" target="_blank"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/> </a>
 <a href="https://medium.com/taiaraujo20" target="_blank"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/> </a>
 <a href="https://gitlab.com/taiaraujo" target="_blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/> </a>
