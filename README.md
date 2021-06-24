@@ -7,13 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="taiaraujo" /> </p>
 
 
-- 🔭 I’m currently working
- 
-  > 👩‍💻 as a backend on the [Plataforma Notifica Direto](https://cartorio.notificadireto.com.br/signin) | [Direto Tech](https://direto.tech/). 
-
-  > 🧙‍♀️ as a Technology Education Instructor at [Robomind Pará](https://www.instagram.com/robomindpara/). 
-
-  > 🧙‍♀️ as a Project Mentor [Coders4Future](http://coders4future.com/). 
+- 👩‍💻 I’m currently working as a backend developer on the [B2W Digital](https://carreiras.b2w.io/).
 
 - 🌱 I am currently a student of the [Graduate Program in Applied Computing at UFPA](http://ppca.propesp.ufpa.br/index.php/br)
 
