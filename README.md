@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="taiaraujo" /> </p>
 
 
-- 👩‍💻 I’m currently working as a backend developer on the [B2W Digital](https://carreiras.b2w.io/).
+- 👩‍💻 I’m currently working as a backend developer on the [Americanas SA](https://www.linkedin.com/company/americanas-sa/mycompany/).
 
 - 🌱 I am currently a student of the [Graduate Program in Applied Computing at UFPA](http://ppca.propesp.ufpa.br/index.php/br)
 
