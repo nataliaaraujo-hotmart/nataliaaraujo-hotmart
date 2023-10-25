@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/taiaraujo/taiaraujo/blob/main/img/avatarTaia.png" height="150" width="150" alt="taiaraujo" /> </p>
 
 <h1 align="center">Hello World!👋, I'm Natalia Araujo</h1>
-<h3 align="center">Junior Backend Developer | Computer Engineer</h3>
+<h3 align="center">Backend Developer | Computer Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="taiaraujo" /> </p>
@@ -13,13 +13,7 @@
 
 <h3 align="left">📱 Connect with me</h3>
 <a href="taiaraujo20@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
-<a href="https://discord.gg/taia#5998" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>
-<a href="https://twitter.com/nfarauj" target="_blank"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://medium.com/taiaraujo20" target="_blank"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/> </a>
-<a href="https://gitlab.com/taiaraujo" target="_blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/> </a>
 <a href="https://www.linkedin.com/in/taiaraujo/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://www.instagram.com/taiafaraujo/" target="_blank"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="https://www.facebook.com/taiaaraujo" target="_blank"> <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/> </a>
 
 <h3 align="left">💻 OS</h3>
 <p>
@@ -74,12 +68,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiaraujo&theme=dracula&column=8&margin-w=15&margin-h=15&no-bg=true" alt="taiaraujo" /></a> 
 </p>
-
-<h3>📈 Statistics Cards</h3>
-<div align="left">
-  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs?username=taiaraujo&show_icons=true&locale=en&layout=compact&theme=react" alt="taiaraujo" />
-  <img height=175 src="https://github-readme-stats.vercel.app/api?username=taiaraujo&show_icons=true&locale=en&theme=react&hide=issues" alt="taiaraujo" />
-</div>
 
 <h3 align="left">📊 Overview Heroku</h3>
 <p>
