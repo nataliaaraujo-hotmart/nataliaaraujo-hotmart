@@ -63,9 +63,6 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
-
-<h3 align="left">🏆 Github Profile Trophy</h3>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiaraujo&theme=dracula&column=8&margin-w=15&margin-h=15&no-bg=true" alt="taiaraujo" /></a> 
 </p>
 
