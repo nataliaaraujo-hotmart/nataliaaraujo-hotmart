@@ -6,22 +6,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="taiaraujo" /> </p>
 
+<p align="center"> 👩‍💻 I’m currently working as a backend developer on the [Americanas SA](https://www.linkedin.com/company/americanas-sa/mycompany/) </p>
+<p align="center"> 🌱 I am currently a student of the [Graduate Program in Applied Computing at UFPA](http://ppca.propesp.ufpa.br/index.php/br) </p>
 
-- 👩‍💻 I’m currently working as a backend developer on the [Americanas SA](https://www.linkedin.com/company/americanas-sa/mycompany/).
-
-- 🌱 I am currently a student of the [Graduate Program in Applied Computing at UFPA](http://ppca.propesp.ufpa.br/index.php/br)
 
 <h3 align="left">📱 Connect with me</h3>
 <a href="taiaraujo20@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
 <a href="https://www.linkedin.com/in/taiaraujo/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<h3 align="left">💻 OS</h3>
-<p>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-  </p>
+
+### 🚀 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiaraujo) 
+
+
+### 📌 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taiaraujo&repo=models_python_and_ML_covid19_Brazil))](https://github.com/taiaraujo/models_python_and_ML_covid19_Brazil)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taiaraujo&repo=bootcamp-fullstack_Python))](https://github.com/taiaraujo/bootcamp-fullstack_Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taiaraujo&repo=apiProductsFlask))](https://github.com/taiaraujo/apiProductsFlask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taiaraujo&repo=infra-terraform-aws))](https://github.com/taiaraujo/infra-terraform-aws)
+
+
+### 📊 Statistics On GitHub 
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiaraujo&show_icons=true&theme=dracula)
+
 
 <h3 align="left">🚀 Skills</h3>
 <p>
