@@ -1,6 +1,6 @@
-## Olá, mundo! Sou <strong>Natalia Araujo</strong>! 👋
+## Olá, Troopers! Sou <strong>Natalia Araujo (Taia)</strong>! 👋
 
-<img src="https://github.com/taiaraujo/taiaraujo/blob/main/img/avatarTaia.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
+<img src="https://github.com/nataliaaraujo-hotmart/nataliaaraujo-hotmart/blob/main/img/avatarTaia.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
 <p align="left"> 
   <strong>Software Engineer II • Backend • Java</strong>
@@ -37,21 +37,21 @@
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=taiaraujo&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=nataliaaraujo-hotmart&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiaraujo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaaraujo-hotmart&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=taiaraujo&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=nataliaaraujo-hotmart&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
