@@ -3,7 +3,7 @@
 <img src="https://github.com/nataliaaraujo-hotmart/nataliaaraujo-hotmart/blob/main/img/avatarTaia.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
 <p align="left"> 
-  <strong>Software Engineer II • Backend • Java</strong>
+  <strong>Software Engineer III • Backend • Java</strong>
 
   Formada em Engenharia de Computação e mestranda em Computação Aplicada, pela Universidade Federal do Pará. Tropper da Hotmart Company. Atuo desde 2020 na área de Desenvolvimento de Software. 
 
